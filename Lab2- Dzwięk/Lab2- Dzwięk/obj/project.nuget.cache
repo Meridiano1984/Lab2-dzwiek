@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGeWhiTEBxgT/PFd505JYu/p40BWWtYsqerYLTvqWebN0J7iYIAWZWiYKxDqQyhsCE5PIu0hmuvG4S6EHFCciA==",
+  "success": true,
+  "projectFilePath": "D:\\Studia\\Perysreryjne\\Dzwiek\\Lab2- Dzwięk\\Lab2- Dzwięk\\Lab2- Dzwięk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milos\\.nuget\\packages\\naudio\\1.8.4\\naudio.1.8.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „NAudio 1.8.4” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "NAudio",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

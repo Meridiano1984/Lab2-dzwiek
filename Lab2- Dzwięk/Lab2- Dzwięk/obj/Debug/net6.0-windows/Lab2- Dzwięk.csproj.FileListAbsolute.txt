@@ -1,0 +1,19 @@
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\Lab2- Dzwięk.exe
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\Lab2- Dzwięk.deps.json
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\Lab2- Dzwięk.runtimeconfig.json
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\Lab2- Dzwięk.dll
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\Lab2- Dzwięk.pdb
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\bin\Debug\net6.0-windows\NAudio.dll
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.csproj.AssemblyReference.cache
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2__Dzwięk.Form1.resources
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.csproj.GenerateResource.cache
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.AssemblyInfoInputs.cache
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.AssemblyInfo.cs
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.csproj.CoreCompileInputs.cache
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.csproj.CopyComplete
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.dll
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\refint\Lab2- Dzwięk.dll
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.pdb
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\Lab2- Dzwięk.genruntimeconfig.cache
+D:\Studia\Perysreryjne\Dzwiek\Lab2- Dzwięk\Lab2- Dzwięk\obj\Debug\net6.0-windows\ref\Lab2- Dzwięk.dll

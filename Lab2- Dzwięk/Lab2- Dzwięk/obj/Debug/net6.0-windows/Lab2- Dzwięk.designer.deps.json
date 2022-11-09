@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NAudio/1.8.4": {
+        "runtime": {
+          "lib/net35/NAudio.dll": {
+            "assemblyVersion": "1.8.4.0",
+            "fileVersion": "1.8.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NAudio/1.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4pZSEy+erA4dJBJ4Lubz3PypWvcDWyelS6HZ8nzGYCORyQRkLJDwsQJ2Mn7MnywCt+PcsRGVhiJ24GnqeRX6Q==",
+      "path": "naudio/1.8.4",
+      "hashPath": "naudio.1.8.4.nupkg.sha512"
+    }
+  }
+}
